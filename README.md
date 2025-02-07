@@ -1,0 +1,2 @@
+# Vercify
+Hackathon project
